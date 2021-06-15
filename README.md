@@ -1,6 +1,6 @@
 - 👋 Hi, I’m LakviruPerera
 - 👀 I’m interested in Data Science and Statistics
-- 🌱 I’m currently learning a Bsc. Applied statistics (Honours) degree undergraduate in University of Colombo
+- 🌱 I’m currently learning as a Bsc. Applied statistics (Honours) degree undergraduate in University of Colombo
 - 💞️ I’m looking to collaborate on data science, data analysis and statistics projects
 - 📫 How to reach me - lakudara@gmail.com
 
